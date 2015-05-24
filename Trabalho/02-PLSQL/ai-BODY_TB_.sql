@@ -1,2 +1,0 @@
--- This is the initial file contents for *.sql file to be edited 
--- in the plsql editor
